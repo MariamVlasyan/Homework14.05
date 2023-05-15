@@ -1,9 +1,8 @@
 # Homework14.05
 
 **Create a Java interface called "Shape" that defines the following methods:**
-●
-getArea(): a method that returns a double representing the area of the shape.
-● getPerimeter(): a method that returns a double representing the perimeter of the shape.
+- getArea(): a method that returns a double representing the area of the shape.
+- getPerimeter(): a method that returns a double representing the perimeter of the shape.
 
 **Create a Java enum called "ShapeType" that contains two values: CIRCLE and RECTANGLE.**
 **Create a generic Java class called "ShapeContainer<T extends Shape>" that can store objects that implement the Shape interface. The class should have the following methods:**
